@@ -10,7 +10,7 @@ All notable changes to the CSV Workflow Automation Tool are documented here.
 - Pivot table generation for quick fallout analysis.  
 - End Test number validation to ensure data integrity.  
 - Tkinter GUI for file selection, filter dropdowns, and status logging.  
-➡️ [View Initial Release]()
+➡️ [View Initial Release](https://github.com/roannelafuente/CSV-Workflow-Automation)
 
 ---
 
@@ -18,7 +18,7 @@ All notable changes to the CSV Workflow Automation Tool are documented here.
 - Introduced wafermap visualization with **random coloring** (prototype stage).  
 - Continued automation of CSV → Excel workflows and pivot table generation.  
 - Fallout analysis by filtering `C1_MARK` values and calculating End Test fallout percentages.  
-➡️ [View v1.0.0 Release]()
+➡️ [View v1.0.0 Release](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.0.0)
 
 ---
 
