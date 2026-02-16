@@ -28,7 +28,7 @@ All notable changes to the CSV Workflow Automation Tool are documented here.
 - Scrollable status box for improved log navigation.  
 - GUI branding with title and developer attribution.  
 - Replicates workplace wafermap references for reproducibility and audit-ready insights.  
-➡️ [View v1.1.0 Release]()
+➡️ [View v1.1.0 Release](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.1.0)
 
 ### v1.1.1 – Wafermap Bug Fix
 - Fixed issue where numeric `C1_MARK` values (e.g., `"1.0"`) failed to match intended color mapping keys (e.g., `"1"`).  
