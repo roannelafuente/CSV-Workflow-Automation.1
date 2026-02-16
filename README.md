@@ -29,6 +29,14 @@ These files are dummy inputs included for demonstration purposes only. They are 
 
 ---
 
+## 📦 Download
+The latest release (with `.exe` build) is available here:  
+[➡️ CSV Workflow Automation Tool](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.0.0/releases/download/v1.0.0/CSV.Workflow.Automation.v1.0.0.zip)
+
+▶️ **Usage**: Run the .exe to launch the dashboard and explore the features.
+
+---
+
 ## 🌟 Impact
 By automating manual reporting, this tool reduces errors and saves significant time, making deliverables audit-ready and efficient.  
 This release established the foundation for wafermap visualization introduced in later versions.  
