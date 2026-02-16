@@ -31,7 +31,7 @@ These files are dummy inputs included for demonstration purposes only. They are 
 
 ## 📦 Download
 The latest release (with `.exe` build) is available here:  
-[➡️ CSV Workflow Automation Tool](https://github.com/roannelafuente/CSV-Workflow-Automation/releases/download/v0.0.0/CSV.Workflow.Automation.zip)
+[➡️ CSV Workflow Automation Tool](https://github.com/roannelafuente/CSV-Workflow-Automation/releases/tag/pre-release)
 
 ▶️ **Usage**: Run the .exe to launch the dashboard and explore the features.
 
