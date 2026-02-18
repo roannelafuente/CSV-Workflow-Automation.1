@@ -9,6 +9,14 @@ It automates repetitive reporting tasks by:
 
 ---
 
+## 📌 Disclaimer
+This project is a portfolio demonstration built entirely with synthetic/dummy data.
+While the workbook structure and formatting are inspired by typical engineering workflows, all headers, values, and examples have been replaced with generic placeholders.
+No proprietary intellectual property, client data, or company‑specific conventions are included.
+Its sole purpose is to showcase automation techniques, reproducible workflows, and technical skills in Python, Tkinter, OpenPyXL, and xlwings.
+
+---
+
 ## 🛠️ Tech Stack
 - Python  
 - Pandas (data manipulation)  
